@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@serverless/utils": "^6.7.0",
+    "serverless-offline": "^9.0.0"
+  }
+}
